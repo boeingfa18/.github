@@ -1,18 +1,20 @@
 ## Hi there 👋
 
-This is an organisation about ObsoleteLabs.
-As a community member, STAY OUT. This is my nonsense, not yours.
-We dont like docs, it puts us out of business.
-Our team eats cocopops and sulfuric acid for breakfast. Sometimes when we are feeling adventurous we pair it with a nice warm glass of lime juice.
+Welcome to **ObsoleteLabs**, a small organization that builds experimental tools, prototypes, and research projects. We keep our work light-hearted but focused on learning and sharing neat ideas.
 
+### What we do
+- Explore quick prototypes and proof-of-concepts.
+- Share small utilities that others might find handy.
+- Collaborate on learning exercises and research experiments.
 
-<!--
+### Getting involved
+- Open an issue if you spot a bug or have an idea to try.
+- Follow our repositories to see what we are experimenting with next.
+- Be respectful and constructive—this is a collaborative space.
 
-**Here are some ideas to get you started:**
+### Resources
+- Check each repository README for setup and usage instructions.
+- Issues often have context and links for ongoing work.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Fun fact
+Our team loves breakfast cereal and a strong cup of coffee to kick off a day of hacking.
