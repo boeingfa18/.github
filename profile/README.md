@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+This is an organisation about ObsoleteLabs.
+As a community member, STAY OUT. This is my nonsense, not yours.
+We dont like docs, it puts us out of business.
+Our team eats cocopops and sulfuric acid for breakfast. Sometimes when we are feeling adventurous we pair it with a nice warm glass of lime juice.
+
+
 <!--
 
 **Here are some ideas to get you started:**
